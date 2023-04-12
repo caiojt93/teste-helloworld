@@ -1,0 +1,15 @@
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\bin\Debug\net6.0\teste-helloworld.exe
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\bin\Debug\net6.0\teste-helloworld.deps.json
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\bin\Debug\net6.0\teste-helloworld.runtimeconfig.json
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\bin\Debug\net6.0\teste-helloworld.dll
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\bin\Debug\net6.0\teste-helloworld.pdb
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.csproj.AssemblyReference.cache
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.AssemblyInfoInputs.cache
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.AssemblyInfo.cs
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.dll
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\refint\teste-helloworld.dll
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.pdb
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\teste-helloworld.genruntimeconfig.cache
+C:\Users\yasmi\source\repos\teste-helloworld\teste-helloworld\obj\Debug\net6.0\ref\teste-helloworld.dll
